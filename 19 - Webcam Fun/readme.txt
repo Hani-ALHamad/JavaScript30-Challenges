@@ -1,0 +1,1 @@
+couldnt figure out by myself that he used pixel shifting method to change the colors, instead i used some simple drop-shadow filters
