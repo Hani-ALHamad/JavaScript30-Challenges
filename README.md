@@ -8,6 +8,8 @@
 
 **• Vanilla Javascript only was used to solve them.**
 
+**• My solutions are named "my_js.js"**
+
 • 9 and 14 were simple and more like tutorials for me, i just watched them and typed the notes in their HTML files (open f12 in browser), same goes with 25 but in JS file not html.
 
 
